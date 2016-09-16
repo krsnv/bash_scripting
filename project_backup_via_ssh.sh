@@ -8,7 +8,7 @@
 # Generate SSH key, add it on project server and configure Host in ~/.ssh/config
 
 
-source ~/automation/AGMTelegramBot.tokens
+source ~/TelegramBot.tokens
 
 # ------------------------------------------------------------------------------
 # SCRIPT PARAMS

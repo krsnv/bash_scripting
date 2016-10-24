@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # example.ru EVERYDAY BACKUP
-# -------------------------
-# @author Vladimir Krasnov <v@krsnv.ru>
+# --------------------------
 #
 # This script needs SSH key to authorize on project server.
 # Generate SSH key, add it on project server and configure Host in ~/.ssh/config
